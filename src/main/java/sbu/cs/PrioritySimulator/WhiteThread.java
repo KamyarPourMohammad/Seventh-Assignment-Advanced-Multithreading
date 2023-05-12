@@ -16,5 +16,6 @@ public class WhiteThread extends ColorThread {
     @Override
     public void run() {
         // TODO call printMessage
+        printMessage();
     }
 }
